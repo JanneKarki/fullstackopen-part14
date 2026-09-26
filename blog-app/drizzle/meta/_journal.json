@@ -15,6 +15,27 @@
       "when": 1790433637797,
       "tag": "0001_overconfident_paper_doll",
       "breakpoints": true
+    },
+    {
+      "idx": 2,
+      "version": "7",
+      "when": 1790437011382,
+      "tag": "0002_absurd_lorna_dane",
+      "breakpoints": true
+    },
+    {
+      "idx": 3,
+      "version": "7",
+      "when": 1790438497225,
+      "tag": "0003_flowery_vindicator",
+      "breakpoints": true
+    },
+    {
+      "idx": 4,
+      "version": "7",
+      "when": 1790439032153,
+      "tag": "0004_salty_roxanne_simpson",
+      "breakpoints": true
     }
   ]
 }
